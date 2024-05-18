@@ -1,0 +1,63 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "7f01ce770b09966fb450e394a0fa7aaf",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 1 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "7f01ce770b09966fb450e394a0fa7aaf",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "c41326b2419ba5b7075827a3d33d6efa",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 2 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "c41326b2419ba5b7075827a3d33d6efa",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "90d64a59bc5ebd30c146b76842a65751",
+                "name": "3",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 3 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "90d64a59bc5ebd30c146b76842a65751",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "e0bee325c570ef3b86d1be33c16b5d47",
+                "name": "4",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 4 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "e0bee325c570ef3b86d1be33c16b5d47",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
