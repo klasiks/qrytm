@@ -7,33 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "7f01ce770b09966fb450e394a0fa7aaf",
-                "name": "1",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "قېرى يېتىم 1 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
-                "url": "static/Qiri Yitim/1.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "7f01ce770b09966fb450e394a0fa7aaf",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "c41326b2419ba5b7075827a3d33d6efa",
-                "name": "2",
-                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
-                "album": "قېرى يېتىم 2 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
-                "url": "static/Qiri Yitim/2.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "c41326b2419ba5b7075827a3d33d6efa",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "90d64a59bc5ebd30c146b76842a65751",
+                "id": "a8c904e26abf7ec172737781117a0cf9",
                 "name": "3",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "قېرى يېتىم 3 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
@@ -41,12 +15,25 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "90d64a59bc5ebd30c146b76842a65751",
+                "url_id": "a8c904e26abf7ec172737781117a0cf9",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "e0bee325c570ef3b86d1be33c16b5d47",
+                "id": "41d5c7e47004823a243f63986cef18ce",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 2 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "41d5c7e47004823a243f63986cef18ce",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "233df71a8797a52fdf0341a3ccb5eb48",
                 "name": "4",
                 "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
                 "album": "قېرى يېتىم 4 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
@@ -54,7 +41,20 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "e0bee325c570ef3b86d1be33c16b5d47",
+                "url_id": "233df71a8797a52fdf0341a3ccb5eb48",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "96fc6516497174e681eaedffa06eef55",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قېرى يېتىم 1 .قىسىم  جالالىدىن بەھرام  (ئاۋازلىق ئەسەر)",
+                "url": "static/Qiri Yitim/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "96fc6516497174e681eaedffa06eef55",
                 "pic_id": "",
                 "lyric_id": ""
             }
